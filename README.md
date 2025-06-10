@@ -70,10 +70,10 @@ The generated report will be saved in the output/ folder as a PDF or Word docume
 🧠 Customization
 
 The notebook is modular and allows for:
-i) Modifying the visualizations (change chart types or add more)
-ii) Editing the text/narrative templates
-iii) Integrating advanced ML models or statistical tests
-iv) Changing the report layout or export format (e.g., switch from PDF to Word)
+(i) Modifying the visualizations (change chart types or add more)
+(ii) Editing the text/narrative templates
+(iii) Integrating advanced ML models or statistical tests
+(iv) Changing the report layout or export format (e.g., switch from PDF to Word)
 
 📜 License
 
