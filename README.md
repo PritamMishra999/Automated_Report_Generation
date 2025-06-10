@@ -20,91 +20,60 @@ By combining powerful Python libraries such as pandas, matplotlib, seaborn, fpdf
 
 ⚙️ Features
 
-Automated Data Loading: Supports structured data formats like CSV, Excel, or directly from a DataFrame.
-
-Data Preprocessing: Handles null values, data types, basic filtering, and statistical summaries.
-
-Visualization: Automatically generates relevant plots (e.g., histograms, bar charts, pie charts) to illustrate data insights.
-
-Narrative Generation: Converts numeric summaries into readable statements that provide context and interpretation.
-
-Report Export: Outputs the final report as a PDF or Word document, combining text, tables, and charts.
-
-Reusable Workflow: Encapsulated in a Jupyter Notebook for easy customization, demonstration, and execution.
+1. Automated Data Loading: Supports structured data formats like CSV, Excel, or directly from a DataFrame.
+2. Data Preprocessing: Handles null values, data types, basic filtering, and statistical summaries.
+3.Visualization: Automatically generates relevant plots (e.g., histograms, bar charts, pie charts) to illustrate data insights.
+4. Narrative Generation: Converts numeric summaries into readable statements that provide context and interpretation.
+5. Report Export: Outputs the final report as a PDF or Word document, combining text, tables, and charts.
+6. Reusable Workflow: Encapsulated in a Jupyter Notebook for easy customization, demonstration, and execution.
 
 🛠 Technologies Used
 
-Python 3.x
-
-Jupyter Notebook
-
-pandas – for data manipulation
-
-matplotlib / seaborn – for data visualization
-
-fpdf / python-docx – for generating PDF or Word reports
-
-os, datetime – for file and timestamp management
+-> Python 3.x
+-> Jupyter Notebook
+-> pandas – for data manipulation
+-> matplotlib / seaborn – for data visualization
+-> fpdf / python-docx – for generating PDF or Word reports
+-> os, datetime – for file and timestamp management
 
 🚀 How to Use
 
-Clone the repository:
+Step 1: Clone the repository:
 git clone https://github.com/yourusername/Automated_Report_Generation.git
 cd Automated_Report_Generation
 
-Install dependencies:
+Step 2: Install dependencies:
 pip install -r requirements.txt
 
-Open the notebook:
+Step 3: Open the notebook:
 Launch the Jupyter Notebook environment and open Automated_Report_Generation.ipynb.
 
-Run the notebook:
+Step 4: Run the notebook:
 Step through the cells to:
 
-Load your dataset
+-> Load your dataset
+-> Perform data exploration and cleaning
+-> Visualize key metrics
+-> Generate the final report with visuals and narratives
 
-Perform data exploration and cleaning
-
-Visualize key metrics
-
-Generate the final report with visuals and narratives
-
-Check the output:
+Step 5: Check the output:
 The generated report will be saved in the output/ folder as a PDF or Word document.
 
 🎯 Use Cases
 
-Business Reporting: Generate monthly sales or performance summaries.
-
-Educational Institutions: Report student scores and trends.
-
-Medical Field: Summarize patient lab test reports and findings.
-
-Data Science Projects: Automatically document analysis outcomes and EDA steps.
-
-Operations Monitoring: Create daily or weekly infrastructure usage reports.
+1. Business Reporting: Generate monthly sales or performance summaries.
+2. Educational Institutions: Report student scores and trends.
+3. Medical Field: Summarize patient lab test reports and findings.
+4. Data Science Projects: Automatically document analysis outcomes and EDA steps.
+5. Operations Monitoring: Create daily or weekly infrastructure usage reports.
 
 🧠 Customization
 
 The notebook is modular and allows for:
-
-Modifying the visualizations (change chart types or add more)
-
-Editing the text/narrative templates
-
-Integrating advanced ML models or statistical tests
-
-Changing the report layout or export format (e.g., switch from PDF to Word)
-
-📌 Future Enhancements
-
-Add scheduling for automated report generation via cron/Task Scheduler.
-
-Integrate email dispatch to send reports automatically.
-
-Build a web UI with Streamlit or Flask for non-programmers.
-
-Include NLP-based summaries using models like GPT for richer narratives.
+i) Modifying the visualizations (change chart types or add more)
+ii) Editing the text/narrative templates
+iii) Integrating advanced ML models or statistical tests
+iv) Changing the report layout or export format (e.g., switch from PDF to Word)
 
 🤝 Contributing
 
