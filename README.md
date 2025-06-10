@@ -49,11 +49,15 @@ Step 3: Open the notebook:
 Launch the Jupyter Notebook environment and open Automated_Report_Generation.ipynb.
 
 Step 4: Run the notebook:
+
 Step through the cells to:
 
 -> Load your dataset
+
 -> Perform data exploration and cleaning
+
 -> Visualize key metrics
+
 -> Generate the final report with visuals and narratives
 
 Step 5: Check the output:
@@ -71,8 +75,11 @@ The generated report will be saved in the output/ folder as a PDF or Word docume
 
 The notebook is modular and allows for:
 (i) Modifying the visualizations (change chart types or add more)
+
 (ii) Editing the text/narrative templates
+
 (iii) Integrating advanced ML models or statistical tests
+
 (iv) Changing the report layout or export format (e.g., switch from PDF to Word)
 
 📜 License
