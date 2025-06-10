@@ -39,7 +39,7 @@ By combining powerful Python libraries such as pandas, matplotlib, seaborn, fpdf
 🚀 How to Use
 
 Step 1: Clone the repository:
-git clone https://github.com/yourusername/Automated_Report_Generation.git
+git clone https://github.com/PritamMishra999/Automated_Report_Generation.git
 cd Automated_Report_Generation
 
 Step 2: Install dependencies:
