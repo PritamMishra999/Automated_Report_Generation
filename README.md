@@ -75,10 +75,6 @@ ii) Editing the text/narrative templates
 iii) Integrating advanced ML models or statistical tests
 iv) Changing the report layout or export format (e.g., switch from PDF to Word)
 
-🤝 Contributing
-
-Contributions, bug reports, and suggestions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.
-
 📜 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
